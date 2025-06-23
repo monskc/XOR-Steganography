@@ -32,6 +32,11 @@ Enter decryption key: mykey123
 Success – Decrypted message: Hello World
 
 # Notes:
-# - Only .png images are supported.
-# - The same key used for encryption must be used for decryption.
-# - Keep your encryption key safe – it's required to extract the original message.
+### - Only .png images are supported.
+### - The same key used for encryption must be used for decryption.
+### - Keep your encryption key safe – it's required to extract the original message.
+
+# Output
+
+![output-eg](https://github.com/user-attachments/assets/58f8ee88-4899-4ba6-9b08-20115085a236)
+
