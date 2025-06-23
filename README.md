@@ -3,9 +3,13 @@
 A simple Python tool to hide and reveal secret messages in PNG images using XOR encryption.
 
 📁 Project Structure:
+
 ├── hidden_message.png        # Output image with hidden message
+|
 ├── input-image.png           # Original image used for encoding
+|
 ├── steganography.py          # Script for encoding/decoding
+|
 └── README.md                 # Project documentation
 
 # How to Use
