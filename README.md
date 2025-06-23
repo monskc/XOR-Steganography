@@ -14,8 +14,11 @@ A simple Python tool to hide and reveal secret messages in PNG images using XOR 
 $ python steganography.py
 
 1. Encrypt
+   
 2. Decrypt
+
 Choose operation (1/2): 1
+
 Enter input PNG image path: input-image.png
 
 Enter secret message to hide: Hello World
@@ -29,10 +32,15 @@ Success – Encrypted image saved as 'hidden_message.png'
 $ python steganography.py
 
 1. Encrypt
+
 2. Decrypt
+   
 Choose operation (1/2): 2
+
 Enter PNG image path to decode: hidden_message.png
+
 Enter decryption key: mykey123
+
 Success – Decrypted message: Hello World
 
 # Notes:
