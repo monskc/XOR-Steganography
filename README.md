@@ -17,9 +17,13 @@ $ python steganography.py
 2. Decrypt
 Choose operation (1/2): 1
 Enter input PNG image path: input-image.png
+
 Enter secret message to hide: Hello World
+
 Enter encryption key: mykey123
+
 Enter output image filename (with .png): hidden_message.png
+
 Success – Encrypted image saved as 'hidden_message.png'
 
 $ python steganography.py
